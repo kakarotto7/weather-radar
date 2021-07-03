@@ -1,0 +1,23 @@
+ .logo {
+     height: 50px;
+     width: 50px;
+ }
+
+ .navbar {
+     background-image: linear-gradient(to right, rgb(99, 177, 212), rgb(48, 189, 48), rgb(113, 77, 211));
+     height: 20px;
+ }
+
+ .navbar-spacing {
+     padding: 15px;
+     width: 1500px;
+ }
+
+ .contents {
+     margin-left: 200px;
+ }
+
+ .text {
+     font-size: 25px;
+     font-weight: bold;
+ }
